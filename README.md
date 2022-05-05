@@ -4,5 +4,6 @@ série des ateliers de Deep Learning avec pyTorch, commençant par les Tensors ,
 
 
 
+<h4>Voir aussi le rapport pdf </h4>
 ![image](https://user-images.githubusercontent.com/54851310/167033476-ea32e076-8028-4030-823d-1e967c856d6b.png)
 
